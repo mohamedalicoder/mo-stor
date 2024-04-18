@@ -1,0 +1,2 @@
+# mo-stor
+my store
